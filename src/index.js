@@ -16,6 +16,6 @@ function name(operacion,num1,num2) {
     }
 }
 
-
+module.exports= name;
 
 console.log(name("/",6,2))
